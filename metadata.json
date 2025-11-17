@@ -1,0 +1,5 @@
+{
+  "name": "Team Roster App",
+  "description": "A simple React application to input and manage team names.",
+  "requestFramePermissions": []
+}
